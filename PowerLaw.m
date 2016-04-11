@@ -1,6 +1,6 @@
-#I use the daily S&P 500 index from 1980 to 2015 to verify the existence of power law in the tail distribution of stock price movement. 
-#The estimation results suggest that the power law exists in both tails. 
-#In particular I cannot reject that the power equals to three, as suggested by previous studies which use different or older data sets. (Gabaix, 2011; Gopikrishnan et al., 1999)
+%I use the daily S&P 500 index from 1980 to 2015 to verify the existence of power law in the tail distribution of stock price movement. 
+%The estimation results suggest that the power law exists in both tails. 
+%In particular I cannot reject that the power equals to three, as suggested by previous studies which use different or older data sets. (Gabaix, 2011; Gopikrishnan et al., 1999)
 
 clc;
 clear all;
